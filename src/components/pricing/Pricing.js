@@ -6,13 +6,13 @@ class Pricing extends Component {
 
     state = {
         prices: [100, 150, 250],
-        positions: ['Balcony', 'Medium', 'Star'],
+        positions: ['Balcon', 'Fosse', 'Star'],
         desc: [
             'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
             'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
         ],
-        linkTo: ['http://sales/balcony', 'http://sales/medium', 'http://sales/star'],
+        linkTo: ['http://sales/balcon', 'http://sales/fosse', 'http://sales/star'],
         delay: [500, 0, 500]
     }
 

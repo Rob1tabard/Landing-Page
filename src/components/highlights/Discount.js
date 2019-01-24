@@ -48,7 +48,7 @@ class Discount extends Component {
                                 sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
                             </p>
                             <MyButton
-                                text="Purchase ticket"
+                                text="Achetez votre ticket"
                                 bck= '#ffa800'
                                 color="#fff"
                                 link='http://google.com'
